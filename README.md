@@ -73,7 +73,7 @@ The time complexity of the edit distance is O(mn), where m is the length of the 
 
 
 
-**MCM_memorization:**
+**Matrix Chain Multiplication:**
 
 The mcm_memorization problem is to find the minimum cost of multiplying a sequence of matrices. For example, if the sequence of matrices is [A, B, C], then the minimum cost of multiplying them is 20.
 
